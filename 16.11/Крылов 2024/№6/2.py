@@ -5,20 +5,20 @@ tracer(0)
 lt(90)
 down()
 for i in range(2):
-    fd(17*k)
+    fd(15*k)
     lt(90)
-    fd(10*k)
+    fd(20*k)
     lt(90)
 up()
-bk(4*k)
 rt(90)
-bk(3*k)
+bk(7*k)
 lt(90)
+fd(9*k)
 down()
 for i in range(2):
-    fd(40*k)
+    fd(17*k)
     rt(90)
-    fd(10*k)
+    fd(15*k)
     rt(90)
 
 up()
@@ -29,4 +29,4 @@ for x in range(-20,20):
 done()
 
 
-#                      585
+#                      584
